@@ -9,7 +9,7 @@ automated testing and shipping things people actually use.
 | Project | What it is | Built with |
 |---|---|---|
 | [**JellyStream**](https://github.com/vaniilla9/jellystream) | iPhone and iPad streaming app for Jellyfin servers, with a Node.js server for friends, messaging, watch parties and push notifications. Distributed through TestFlight. | TypeScript, React Native, Node.js, WebSockets, SQLite |
-| [**Vantheria**](https://github.com/vaniilla9/vantheria) | Dark-fantasy RPG for iPhone with a seven-chapter story, a deterministic game engine, 129 automated tests and a balance simulator. In beta on TestFlight. | Swift, SwiftUI, Swift Testing |
+| [**Vantheria**](https://github.com/vaniilla9/vantheria) | Dark-fantasy RPG for iPhone with a seven-chapter story, a deterministic game engine, 129 automated tests and a balance simulator. [Play the beta on TestFlight](https://testflight.apple.com/join/w8hMG9HQ). | Swift, SwiftUI, Swift Testing |
 | [**Trading Bot**](https://github.com/vaniilla9/trading-bot) | Paper-trading system running six strategies 24/7 on live crypto and stock prices, with a backtester and live dashboard. | Python, pandas, SQLite, JavaScript |
 | [**Depths of the Old**](https://github.com/vaniilla9/depths-of-the-old) | Pixel-art action roguelite with procedural dungeons and a *Vampire Survivors*-style arena. | C#, Unity 6, Python tooling |
 | [**Mac Control**](https://github.com/vaniilla9/mac-control) | macOS menu bar app for power settings, GPU memory and live system monitoring. | Swift, SwiftUI, macOS system APIs |
