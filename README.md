@@ -14,6 +14,12 @@ automated testing and shipping things people actually use.
 | [**Depths of the Old**](https://github.com/vaniilla9/depths-of-the-old) | Pixel-art action roguelite with procedural dungeons and a *Vampire Survivors*-style arena. | C#, Unity 6, Python tooling |
 | [**Mac Control**](https://github.com/vaniilla9/mac-control) | macOS menu bar app for power settings, GPU memory and live system monitoring. | Swift, SwiftUI, macOS system APIs |
 
+### More projects
+
+- [**V-Land Bot**](https://github.com/vaniilla9/vland-bot): Discord bot with a creature-collecting game and an AI personality (Python, ~32,500 lines)
+- [**Media Request Bot**](https://github.com/vaniilla9/media-request-bot): Discord bot for media requests and support, integrating Radarr, Sonarr, Jellyfin and Bazarr (Python)
+- [**MoviePicker**](https://github.com/vaniilla9/moviepicker): guided "what should we watch?" web app for Jellyfin (JavaScript, zero dependencies)
+
 Source code for these projects is private. I'm happy to walk through it or share access for interviews.
 
 ## Tech
